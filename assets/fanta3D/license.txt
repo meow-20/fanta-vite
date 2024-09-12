@@ -1,0 +1,11 @@
+Model Information:
+* title:	330ml can of Fanta Coconut
+* source:	https://sketchfab.com/3d-models/330ml-can-of-fanta-coconut-8ed00b819e944ef48f28267ccddd16be
+* author:	DANIEL WEINLEIN (https://sketchfab.com/danielweinlein)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "330ml can of Fanta Coconut" (https://sketchfab.com/3d-models/330ml-can-of-fanta-coconut-8ed00b819e944ef48f28267ccddd16be) by DANIEL WEINLEIN (https://sketchfab.com/danielweinlein) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
